@@ -1,2 +1,1 @@
-# ITP
-İnternet Tabanlı Programlama deri için yaptığım kişisel web sitem
+İnternet Tabanlı Programlama dersi için yaptığım kişisel web sitem
