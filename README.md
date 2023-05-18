@@ -1,1 +1,4 @@
-İnternet Tabanlı Programlama dersi için yaptığım kişisel web sitem
+İnternet Tabanlı Programlama dersi için yaptığım kişisel web sitesi
+Esma Nur Karakuş 
+201522201
+Bilgisayar Mühendisliği(İÖ)
